@@ -22,7 +22,7 @@ This project analyzes the Superstore dataset using Tableau to uncover insights i
 ---
 
 ## 📸 Dashboard Snapshot
-![Superstore Dashboard](Superstore_Analysis_overview.png)
+![Superstore Dashboard](Superstore_Analysis_preview)
 
 *An example visualization from the Superstore analysis.*
 
