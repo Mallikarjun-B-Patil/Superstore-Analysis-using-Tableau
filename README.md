@@ -37,4 +37,4 @@ This project analyzes the Superstore dataset using Tableau to uncover insights i
 ## 🚀 How to Explore
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Mallikarjun-B-Patil/Superstore-Analysis-using-Tableau.git
+   https://github.com/Mallikarjun-B-Patil/Superstore-Analysis-using-Tableau.git
